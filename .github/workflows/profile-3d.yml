@@ -1,0 +1,28 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 每天 UTC 时间 18:00 (北京时间凌晨 2:00) 自动运行
+    - cron: "0 18 * * *"
+  workflow_dispatch: # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add -A .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 自动生成 3D 贡献图 🎨" && git push)
