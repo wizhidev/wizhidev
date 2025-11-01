@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./images/hadder.gif" width="100%" />
+</div>
+
 ### 👋 Hi there
 
 <div align="center">
