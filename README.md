@@ -27,36 +27,6 @@ width="100%"  height="2">
 
 [![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws&theme=light)](https://github.com/wizhidev)
 
-### 💻 Stats
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<div align="center">
-
-![](https://github-immortality.vercel.app/api?username=wizhidev)
-
-[![wizhidev's github stats](https://github-readme-stats.vercel.app/api?username=wizhidev&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=wizhidev&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=wizhidev&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=wizhidev&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture> -->
-
-[![github-active](./profile-3d-contrib/profile-night-rainbow.svg)](https://raw.githubusercontent.com/wizhidev/wizhidev/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-
-</div>
-
-</details>
-
 ### 🥇 Badges
 
 <!-- my-badges start -->
